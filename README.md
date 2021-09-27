@@ -1,2 +1,0 @@
-# asciidoc
-Example asciidoc repo
