@@ -3,3 +3,5 @@
 Dra meg nå baklengs inn i fuglekassa
 
 == Reodor Felgen
+
+image::https://p3.no/filmpolitiet/wp-content/uploads/2015/12/fl%C3%A5klypa.jpg[]
